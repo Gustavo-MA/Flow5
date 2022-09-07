@@ -75,7 +75,8 @@ Para el caso del API local.
 ![image](https://user-images.githubusercontent.com/111370930/188952350-aed4c3ec-1dcd-41ca-a215-0b72139892d1.png)
 
 Para el caso de un broker publico:
-![image](https://user-images.githubusercontent.com/111370930/188952660-0d5a6ef4-3b38-4768-b481-7e6eb85ea714.png)
+
+![image](https://user-images.githubusercontent.com/111370930/188952871-c45f01ad-94ac-44ad-a626-79a64e3f7018.png)
 
 
 Podemos observar que para varios resultados la grafica historico toma significancia, pues se van ordenando los nuevos resultados a los resultados anteriormente obtenidos asi como los resultados individuales y los resultados mediante un broker.
