@@ -75,14 +75,14 @@ Para el caso del API local.
 ![image](https://user-images.githubusercontent.com/111370930/188952350-aed4c3ec-1dcd-41ca-a215-0b72139892d1.png)
 
 Para el caso de un broker publico:
+![image](https://user-images.githubusercontent.com/111370930/188952660-0d5a6ef4-3b38-4768-b481-7e6eb85ea714.png)
 
-![image](https://user-images.githubusercontent.com/111370930/188952451-040e7d73-8afe-4ded-a0a3-d3628b7dbef4.png)
 
 Podemos observar que para varios resultados la grafica historico toma significancia, pues se van ordenando los nuevos resultados a los resultados anteriormente obtenidos asi como los resultados individuales y los resultados mediante un broker.
 
 Evidencias
 
-Repositorio github: https://github.com/Gustavo-MA/Flow4-MQTT/blob/main/README.md
+Repositorio github: https://github.com/Gustavo-MA/Flow5/blob/main/README.md
 
 Créditos
 
