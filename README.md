@@ -1,6 +1,5 @@
 # Flow5
 Temperatura por MQTT  y API desde OpenWeather
-Introduccion
 
 Se crea un flow que grafica mediante un dashboard los datos de temperatura y humedad utilizando OpenWEather
 
@@ -87,4 +86,4 @@ Repositorio github: https://github.com/Gustavo-MA/Flow5/blob/main/README.md
 
 Créditos
 
-Desarrollado por Gustavo Medina e-mail: gustavo.medina@uaem.edu.mx Introduccion
+Desarrollado por Gustavo Medina e-mail: gustavo.medina@uaem.edu.mx
